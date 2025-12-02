@@ -5,7 +5,6 @@ import time
 import threading
 from pathlib import Path
 from collections import deque
-
 import cv2
 import numpy as np
 from PIL import Image, ImageTk
